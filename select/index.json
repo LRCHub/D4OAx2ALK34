@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "す、好きじゃない!",
+  "base_artist": "≠ME",
+  "createdAt": "2025-12-19T19:27:27.061136Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "す、好きじゃない!",
+      "artist": "≠ME",
+      "has_synced": true,
+      "path": "select/01_す、好きじゃない!_≠ME.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "す、好きじゃない! (off vocal ver.)",
+      "artist": "≠ME",
+      "has_synced": true,
+      "path": "select/02_す、好きじゃない!_(off_vocal_ver.)_≠ME.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "す、好きじゃない",
+      "artist": "≠ME",
+      "has_synced": true,
+      "path": "select/03_す、好きじゃない_≠ME.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "す、好きじゃない!",
+      "artist": "Not Equal Me",
+      "has_synced": true,
+      "path": "select/04_す、好きじゃない!_Not_Equal_Me.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "す、好きじゃない!",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_す、好きじゃない!_≠ME.txt"
+    }
+  ]
+}
